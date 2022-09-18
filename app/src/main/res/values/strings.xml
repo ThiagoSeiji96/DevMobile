@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Aplicativo de países</string>
+    <string name="name_login">Nome</string>
+    <string name="password_login">Senha</string>
+    <string name="hint_name">Insira seu login</string>
+    <string name="hint_password">Insira sua senha</string>
+    <string name="btn_login">Login</string>
+    <string name="login_msg"></string>
+    <string name="action_buscar">Buscar</string>
+    <string name="action_config">Configurações</string>
+    <string name="action_atualizar">Atualizar</string>
+    <string name="action_plus">Adicionar</string>
+</resources>
