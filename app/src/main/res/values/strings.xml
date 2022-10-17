@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="oiAndroid">Olá, Android</string>
+    <string name="action_buscar">Buscar</string>
+    <string name="action_atualizar">Atualizar</string>
+    <string name="action_config">Configurações</string>
+    <string name="mensagem_login">Faça login</string>
+    <string name="descricao_imagem_login">sem descrição</string>
+    <string name="usuario_label">Usuário</string>
+    <string name="input_usuario">Insira seu usuário</string>
+    <string name="senha_label">Senha</string>
+    <string name="input_senha">Insira sua senha</string>
+    <string name="btn_login_text">Login</string>
+    <string name="abrir">Abrir</string>
+    <string name="fechar">Fechar</string>
+</resources>
